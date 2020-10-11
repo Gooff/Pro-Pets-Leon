@@ -1,0 +1,11 @@
+
+.navIcon a{
+    color: #FFFFFF;
+    font-size: 16px;
+}
+li.navIcon{
+    list-style-type: none; /* Убираем маркеры */
+}
+.footerNav{
+
+}

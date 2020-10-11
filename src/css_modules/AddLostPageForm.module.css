@@ -1,0 +1,130 @@
+
+.form h2{
+    margin: 20px;
+    width: 490px;
+    height: 20px;
+    text-align: left;
+    font: normal normal 600 16px/19px Montserrat;
+    letter-spacing: 0px;
+    color: #669885;
+}
+.infoForm{
+
+    width: auto;
+    height: 503px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+.infoForm textarea{
+    resize: none;
+    outline: none;
+    -moz-appearance: none;
+    width: 176px;
+    height: 118px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #8DBFAC;
+    opacity: 1;
+}
+.picForm{
+    top: 166px;
+    left: 716px;
+    width: 192px;
+    height: 183px;
+    background: transparent url('../pictures/FormPic.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.infoForm select{
+    border:none;
+    outline: none;
+    padding-right: 40px;
+}
+
+.line {
+    margin: 15px;
+    width: auto;
+    height: 1px;
+    background-color: #00000029;
+}
+.formForPic{
+    top: 395px;
+    left: 819px;
+    width: 142px;
+    height: 111px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #8DBFAC;
+    opacity: 1;
+}
+.myBtn{
+    top: 476px;
+    left: 699px;
+    width: 77px;
+    height: 30px;
+    background: #FFFFFF ;
+    border: 1px solid #8DBFAC;
+    border-radius: 15px;
+    color: #8DBFAC;
+}
+
+.download i{
+    top: 397px;
+    left: 722px;
+    width: 30px;
+    height: 30px;
+    transform: matrix(0, -1, 1, 0, 0, 0);
+    color: #8DBFAC;
+    font-size: 30px;
+}
+
+.infoForm p{
+    top: 434px;
+    left: 692px;
+    width: 120px;
+    height: 27px;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #393939;
+    opacity: 1;
+}
+
+.infoForm input{
+    margin-left: 20px;
+    top: 548px;
+    left: 429px;
+    width: 152px;
+    height: 16px;
+    opacity: 1;
+}
+.name{
+    margin: 10px;
+    font: normal normal 600 16px/19px Montserrat;
+    color: #84B6A3;
+}
+.btnSubmit{
+    width: 148px;
+    height: 34px;
+    background: #84B6A3 0% 0% no-repeat padding-box;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+}
+
+.infoForm input{
+    width: 205px;
+    height: 18px;
+    border: 0;
+    border-bottom: 1px solid #84B6A3;
+    background-color: rgba(0,0,0,0);
+}
+
+.infoForm label{
+    width: 43px;
+    height: 18px;
+    text-align: right;
+    font-size: 12px;
+    letter-spacing: 0px;
+    color: #393939;
+    opacity: 1;
+}

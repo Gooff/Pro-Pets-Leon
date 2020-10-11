@@ -1,0 +1,119 @@
+
+
+.form h2{
+    margin: 20px;
+    width: 621px;
+    height: 20px;
+    text-align: left;
+    font: normal normal 600 16px/19px Montserrat;
+    letter-spacing: 0px;
+    color: #669885;
+
+}
+
+.form h3{
+    top: 166px;
+    left: 607px;
+    width: 352px;
+    height: 30px;
+    text-align: left;
+    font: normal normal bold 22px/27px Montserrat;
+    letter-spacing: 0px;
+    color: #84B6A3;
+    opacity: 1;
+}
+
+.infoForm{
+
+    width: auto;
+    height: auto;
+    padding-bottom: 15px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    font-size: 12px;
+}
+
+.pic{
+    top: 166px;
+    left: 336px;
+    width: 250px;
+    height: 250px;
+    margin: 15px;
+    opacity: 1;
+}
+
+.line {
+    margin: 10px;
+    width: auto;
+    height: 1px;
+    background-color: #00000029;
+}
+.avatar{
+    width: 43px;
+    height: 43px;
+    border: 1px solid #FFFFFF;
+    opacity: 1;
+
+}
+.data{
+    top: 396px;
+    left: 664px;
+    width: 71px;
+    height: 15px;
+    text-align: left;
+    font-size: 12px;
+    letter-spacing: 0px;
+    color: #BABABA;
+    opacity: 1;
+}
+.myBtn{
+    top: 476px;
+    left: 699px;
+    width: 77px;
+    height: 30px;
+    background: #FFFFFF ;
+    border: 1px solid #8DBFAC;
+    border-radius: 15px;
+    color: #8DBFAC;
+}
+
+.name{
+    margin: 10px;
+    font: normal normal 600 16px/19px Montserrat;
+    color: #84B6A3;
+}
+.btnSubmit{
+    width: 148px;
+    height: 34px;
+    background: #84B6A3 0% 0% no-repeat padding-box;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+
+}
+.btnEdit{
+    top: 553px;
+    left: 700px;
+    width: 105px;
+    height: 34px;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    opacity: 1;
+    display: flex;
+    align-items: center;
+}
+.infoForm label{
+    top: 562px;
+    left: 374px;
+    width: 113px;
+    height: 15px;
+    text-align: left;
+    font-size: 12px;
+    letter-spacing: 0px;
+    color: #393939;
+    opacity: 1;
+}
+

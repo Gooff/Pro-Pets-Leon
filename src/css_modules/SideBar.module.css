@@ -1,0 +1,77 @@
+
+.main{
+    top: 70px;
+    left: 0px;
+    width: 307px;
+    height: 898px;
+    background: #84B6A3 0% 0% no-repeat padding-box;
+    opacity: 1;
+    text-align: center;
+
+}
+.navIcon a{
+    color: #FFFFFF;
+    font-size: 16px;
+}
+li.navIcon{
+    list-style-type: none; /* Убираем маркеры */
+    font-size: 34px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.line {
+    top: 506px;
+    left: 153px;
+    width: 152px;
+    height: 0px;
+    border: 1px solid #FFFFFF;
+    opacity: 0.37;
+    margin-left: 144px;
+    margin-top: 120px;
+}
+
+.avatar{
+    margin-left: 150px;
+    width: 43px;
+    height: 43px;
+    opacity: 1;
+}
+.name{
+    font-size: 16px;
+    color: #FFFFFF;
+    width: 50px;
+}
+.btnLogoutContainer{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+.btnLogoutContainer i{
+    width: 12px;
+    height: 13px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.btnLogout{
+    width: 44px;
+    height: 15px;
+    text-align: left;
+    font-size: 15px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    background-color: inherit;
+    border: none;
+}
+.lineBottom{
+
+    width: 152px;
+    height: 0px;
+    border: 1px solid #FFFFFF;
+    opacity: 0.37;
+    margin-left: 144px;
+    margin-top: 20px;
+}

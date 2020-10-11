@@ -1,0 +1,59 @@
+.firstBlock button:focus { outline: none; }
+
+.firstBlock button{
+    font-size: 32px;
+    border-radius: 0 50px 50px 0;
+    border: none;
+    margin-left: -220px;
+    height: 93px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.picture {
+    margin-top: 6px;
+    height: 596px;
+    background: transparent url('../pictures/Image 2.png') 0% 0% no-repeat padding-box;
+}
+.welcome{
+    margin-top: 99px;
+    text-align: left;
+    font-size: 56px;
+    line-height: 68px;
+}
+.lost{
+    margin-top: 52px;
+    width: 544px;
+    background: #ffe18b;
+
+}
+.found{
+    width: 470px;
+    background: #84B6A3;
+}
+
+.joinText{
+    margin: 30px 150px;
+    width: 435px;
+    height: 19px;
+}
+.firstBlock p{
+    margin-left: 220px;
+}
+.footerFirst{
+    height: 260px;
+    background: #669885 ;
+}
+
+.textFooterFirst{
+    margin:  auto;
+    width: 740px;
+    height: 92px;
+    text-align: center;
+    font-size: 32px;
+    color: #FFFFFF;
+    line-height: 48px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}

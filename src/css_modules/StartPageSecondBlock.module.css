@@ -1,0 +1,62 @@
+.picture2{
+    margin-top: 56px;
+    width: 480px;
+    height: 322px;
+    background: transparent url('../pictures/8347.png') 0% 0% no-repeat padding-box;
+}
+
+.textTop{
+    margin-top: 70px;
+    margin-bottom: 43px;
+    width: 602px;
+    height: 29px;
+    font-size: 24px;
+    color: #669885;
+
+}
+.temp{
+    list-style: none;
+}
+.styleOne{
+    list-style: none;
+
+
+}
+.secondBlock > .myli {
+    width: 440px;
+    font-size: 18px;
+    opacity: 1;
+    color: #84B6A3;
+
+
+}
+/*.secondBlock .myli:before {*/
+/*    color: #84B6A3;*/
+/*    content: '•';*/
+/*    font-weight: bold;*/
+/*    padding-right: 14px;*/
+/*}*/
+
+.redFooter{
+    height: 125px;
+    background: #FF6F61;
+}
+.comingSoon{
+    font-size: 56px;
+    color: #FFFFFF;
+}
+.textInRed{
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.heart{
+    width: 104px;
+    height: 104px;
+    background: transparent url('../pictures/heart.png') no-repeat ;
+
+}
+.heart>p {
+    margin: 40px 24px ;
+    font: normal normal 600 16px/19px Montserrat;
+    color: #FFFFFF;
+}

@@ -1,0 +1,107 @@
+
+.regForm{
+    max-width: 650px;
+    border: 1px solid black;
+    background-color: white;
+    /*display: none;*/
+    /*margin-top: 10%;*/
+}
+
+.regClose{
+    color: #BABABA;
+}
+.myBtn:focus { outline: none; }
+
+.logo__item{
+    color: #FFFFFF;
+    font-size: 27px;
+}
+.logo__item:hover{
+    color: #FFFFFF;
+}
+
+.regLogo {
+    margin: 13px 0 0 10px;
+    width: 140px;
+    height: 35px;
+}
+.regHeader p{
+    margin-left: 13px;
+    color: #669885;
+    font-size: 16px;
+}
+.regHeader button{
+    margin-right: 15px;
+    width: 210px;
+    height: 34px;
+    background-color: #4560A6;
+    color: #FFFFFF;
+    border-color: #5067B3;
+    border-radius: 17px;
+
+}
+.regHeader button p{
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+.btnCancel{
+    width: 105px;
+    height: 34px;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    background-color: #FFFFFF;
+    color: #84B6A3;
+}
+.regForm label{
+    width: 43px;
+    height: 18px;
+    text-align: right;
+    font-size: 12px;
+    letter-spacing: 0px;
+    color: #393939;
+    opacity: 1;
+}
+.regForm input{
+    width: 205px;
+    height: 18px;
+    border: 0;
+    border-bottom: 1px solid #84B6A3;
+    background-color: rgba(0,0,0,0);
+}
+.text{
+    margin-top: 45px;
+    font-size: 10px;
+    color: #BABABA;
+
+}
+.regButtons button{
+    width: 311px;
+    height: 34px;
+    background: #84B6A3 0% 0% no-repeat padding-box;
+    color: #FFFFFF;
+    opacity: 0.28;
+    border: none;
+
+}
+.regButtons button:hover{
+    opacity: 1;
+    transition: .3s;
+}
+.btnSubmit{
+    width: 148px;
+    height: 34px;
+    background: #84B6A3 0% 0% no-repeat padding-box;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+
+}
+
+.regFooter p{
+    max-width: 294px;
+    font-size: 10px;
+    color:#BABABA;
+}
